@@ -1,0 +1,17 @@
+﻿2014/12/08 20:19:02 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\miya\Desktop\Documents\GitHub\openGL\test\nyanpas\nyanpass\nyanpass.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "Debug\nyanpass.unsuccessfulbuild" のタッチ タスクを実行しています。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\miya\desktop\documents\github\opengl\test\nyanpas\nyanpass\main.cpp(74): error C3861: 'glClearColor': 識別子が見つかりませんでした
+     1>c:\users\miya\desktop\documents\github\opengl\test\nyanpas\nyanpass\main.cpp(75): error C2065: 'GL_COLOR_BUFFER_BIT' : 定義されていない識別子です。
+     1>c:\users\miya\desktop\documents\github\opengl\test\nyanpas\nyanpass\main.cpp(75): error C3861: 'glClear': 識別子が見つかりませんでした
+     1>c:\users\miya\desktop\documents\github\opengl\test\nyanpas\nyanpass\main.cpp(77): error C3861: 'glRectf': 識別子が見つかりませんでした
+     1>c:\users\miya\desktop\documents\github\opengl\test\nyanpas\nyanpass\main.cpp(79): error C3861: 'glFlush': 識別子が見つかりませんでした
+     1>プロジェクト "C:\Users\miya\Desktop\Documents\GitHub\openGL\test\nyanpas\nyanpass\nyanpass.vcxproj" (build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:00.80
